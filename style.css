@@ -1,0 +1,33 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.disc_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float: left;
+}
+
+#speed, #volume, #play{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
