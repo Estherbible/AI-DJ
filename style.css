@@ -13,21 +13,9 @@ body{
     background-size: cover;
 }
 
-.disc_img{
-    width: 200px;
-    border-radius: 100px;
-}
-
-.div_speed{
-    float: left;
-}
-
-#speed, #volume, #play{
-    font-size: 25px;
-    margin: 15px;
-}
-
-.div_volume{
-    float: right;
+canvas{
+    border: white dotted 5px;
+    border-radius: 20px;
+margin-top: 150px;
 }
 
